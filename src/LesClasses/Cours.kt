@@ -1,0 +1,4 @@
+package LesClasses
+
+class Cours {
+}
